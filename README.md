@@ -2,7 +2,7 @@
 ## Overview
 The spatiotemporal specificity of gene expression highlights the importance of integrating cellular spatial information to better understand the specific functions of cells within tissues. However, widely used ST techniques are frequently limited by low resolution, potentially hindering researchers from fully understanding gene expression patterns, cell type distribution, and their interactions. SpaViT is a self-supervised method based on the Transformer architecture for predicting high-resolution gene expression. SpaViT leverages customized self-supervised proxy tasks to learn the continuous patterns of gene expression within tissues and predicting high-resolution gene expression profiles. Additionally, SpaViT enhances the spatial patterns of gene expression, aiding researchers in identifying biologically significant differentially expressed genes and pathways.
 
-![Overview.pdf](Overview.pdf)
+![Overview.png](Overview.png)
 
 ## Installations
 - NVIDIA GPU (a single Nvidia GeForce RTX 3090)
