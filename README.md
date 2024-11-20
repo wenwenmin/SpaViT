@@ -17,5 +17,3 @@ For example, we need the gene expression `filtered_feature_bc_matrix.h5` and the
 ## Running demo
 We provide a examples for recoving high-resolution gene expression data of 10X Visium human dorsolateral prefrontal cortex tissue, please refer to [demo_DLPFC.py](demo_DLPFC.py).
 
-## Contact details
-If you have any questions, please contact xueshuailin@163.com.
