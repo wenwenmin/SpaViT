@@ -17,3 +17,7 @@ For example, we need the gene expression `filtered_feature_bc_matrix.h5` and the
 ## Running demo
 We provide a examples for recoving high-resolution gene expression data of 10X Visium human dorsolateral prefrontal cortex tissue, please refer to [demo_DLPFC.py](demo_DLPFC.py).
 
+
+## Citing
+
+Min W, Xue S, Zhu F, et al. SpaViT: Self-supervised Prediction of High-Resolution Spatial Transcriptomics with Vision Transformer. Tsinghua Science and Technology, 2025, https://doi.org/10.26599/TST.2025.9010087
